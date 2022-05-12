@@ -1,0 +1,53 @@
+620,484 - Name
+617,639 - ID
+612,825 - VAV Village
+617,785 - Summit Village
+616,460 - Cucharas
+628,933 - Room Number
+
+Months
+617,411 - Jan/Feb
+613,450 - March
+615,498 - April/May
+
+638,344 - Discription
+
+How was it held
+613,531 - Inperson 
+615,571 - Virtually
+
+Did this meet learning outcomes
+616,707 - Yes
+615,749 - NO
+
+Hashtags
+619,215 - Academics
+617,251 - Community Bonding
+614,299 - GettingInvolved
+611,342 - Homesick
+614,382 - Maintaing Goals
+610,421 - Needs Follow Up
+616,461 - Needs Resources
+615,505 - No Contact
+616,549 - Resiliency
+613,591 - Roommates
+615,632 - Setting Goals
+614,671 - Stressed
+615,715 - SelfCare
+
+Resident to any campus resources?
+617,309 - Academic Advising
+615,352 - Disability Services
+618,397 - Dean of Students
+619,435 - Office of Institutional Equity
+614,477 - Wellness Center
+616,520 - Rec Center
+616,560 - Student Life
+618,601 - First Year Experience
+613,645 - Clubs and Orgs
+616,687 - N/A
+612,727 - Other (Once clicked start typing)
+
+645,815 - Submit
+
+
